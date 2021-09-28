@@ -20,4 +20,4 @@
 
 # The summary is anaysis found the result about trips. I see the most male is trip, and not much female. Also time most about 5-9am and 6-9pm. I think this make sense time because before and after for work. I would like to add two additional is pie charts because we can see percent of pie for male and female. Also perecent of each hour in pie chart. I think this is great pie chart of percent.
 
-https://public.tableau.com/views/NYC_Citibike_Challenge_16322836101270/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/stone.leiker/viz/NYC_Citibike_Challenges/Story2?publish=yes
